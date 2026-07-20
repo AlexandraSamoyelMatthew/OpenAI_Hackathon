@@ -15,3 +15,4 @@ Throughout the hackathon, Alex.OS evolved through planning, experimentation, tes
 Rather than building another code-review tool, I wanted to create an educational experience—one that explains not only **what** is wrong, but also **why** it matters, how it could be exploited, and how developers can write more secure code in the future.
 
 This hackathon MVP is the first public step toward a much larger vision for Alex.OS.
+During development, I jokingly grouped my seven validation tests into the 'Seven Brothers Test Suite'—four cybersecurity-focused cases and three software-quality cases. It kept testing fun while making sure the MVP covered different categories.
